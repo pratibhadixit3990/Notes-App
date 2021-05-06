@@ -19,9 +19,6 @@ Simple Notes App with Authentication. Made using MERN Stack, Used Redux for mana
 ![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)
 
 
-### Clone
-
-- Clone this repo to your local machine using `https://github.com/notrealanurag/notes/`
 
 ### Setup
 
