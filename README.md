@@ -1,5 +1,3 @@
-# Simple Notes App (https://fast-anchorage-92225.herokuapp.com/)
-
 Simple Notes App with Authentication. Made using MERN Stack, Used Redux for managing state
 
 # PREVIEW
